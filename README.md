@@ -22,3 +22,6 @@ To get the EDID from command line, and then parse it (requires read-edid, instal
 2.(kernelspace) [Kernel modules programming guide (Hello, World - Part 1)](http://www.tldp.org/LDP/lkmpg/2.6/html/x121.html) 
 
 3.(kernelspace) [Writing i2c client drivers](http://renjucnair.blogspot.ca/2012/01/writing-i2c-client-driver.html) 
+
+
+
