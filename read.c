@@ -144,3 +144,5 @@ void interpret_edid(uint8_t * edid){
     printf("%u.%u", version, revision);
 }
 
+
+
